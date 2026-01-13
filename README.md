@@ -1,6 +1,6 @@
 # Portswigger-labs Journey
 
-Hey, this is the jackalHunter09 (@bubble_butt917)  
+Hey, this is the jackalHunter09 
 Documenting my daily progress through PortSwigger Web Security Academy labs.  
 I explain things super simply – even with fun stories like the shy gateman! 🧸⏳
 
